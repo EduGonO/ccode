@@ -140,7 +140,6 @@ var waterc = new p5(watercolor, 'watercolor');
 
 
 
-// a ver
 
 
 // code 1
